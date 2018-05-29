@@ -1,0 +1,27 @@
+{
+  "name": "starwar",
+  "version": "1.0.0",
+  "description": "get random star wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilin1013/starwars.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Lin Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilin1013/starwars/issues"
+  },
+  "homepage": "https://github.com/lilin1013/starwars#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
