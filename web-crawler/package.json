@@ -1,0 +1,11 @@
+{
+  "name": "web-crawler",
+  "version": "0.0.0",
+  "description": "A simple webcrawler written in JavaScript",
+  "main": "crawler.js",
+  "author": "lin",
+  "license": "seezona",
+  "dependencies": {
+    "crawler":"1.0.5"
+  }
+}
